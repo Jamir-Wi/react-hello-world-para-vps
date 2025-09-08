@@ -1,0 +1,5 @@
+{
+  "name": "React Hello World para VPS",
+  "description": "Uma aplicação 'Hello World' simples em React e TypeScript, configurada para implantação em uma VPS usando Docker e Easypanel.",
+  "requestFramePermissions": []
+}
